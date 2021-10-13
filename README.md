@@ -1,5 +1,5 @@
 <p align="center"><img src="docs/public/logo.svg" width="128" height="128" alt="Peeky logo"></p>
-
+--
 <h1 align="center">Peeky</h1>
 
 <p align="center">A testing framework for curious minds 🐈️</p>
